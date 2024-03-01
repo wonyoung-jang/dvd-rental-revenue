@@ -5,7 +5,6 @@ This project delves into the analysis of film categories and their revenue contr
 {TODO Image Placeholder for Project Overview}
 
 ## Table of Contents
-- [Getting Started](#getting-started)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Installation](#installation)
